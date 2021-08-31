@@ -1,2 +1,3 @@
 set_env.sh
 k8s/*secret.yaml
+.DS_Store
