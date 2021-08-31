@@ -13,7 +13,7 @@ All the four micro-services are containerized, and can be deployed by docker-com
 - POSTGRES_USERNAME
 - POSTGRES_PASSWORD
 - POSTGRES_DB
-- POSTGRESS_HOST
+- POSTGRES_HOST
 - AWS_REGION
 - AWS_PROFILE
 - AWS_BUCKET
